@@ -53,6 +53,11 @@ android {
 
     buildFeatures {
         viewBinding = true
+        compose = true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.3.1"
     }
 
     testOptions {
@@ -109,4 +114,14 @@ dependencies {
     implementation(Deps.RXJava.rxjava)
     implementation(Deps.RXJava.rxjavaAndroid)
     implementation(Deps.RXJava.rxjavaKotlin)
+
+    // Jetpack Compose
+    implementation("androidx.compose.ui:ui:1.2.0")
+    implementation("androidx.compose.material:material:1.2.0")
+    implementation("androidx.compose.ui:ui-tooling-preview:1.2.0")
+    implementation("androidx.compose.runtime:runtime-livedata:1.2.0")
+    implementation("androidx.compose.runtime:runtime:1.2.0")
+    debugImplementation("androidx.compose.ui:ui-tooling:1.2.0")
+    debugImplementation("androidx.compose.ui:ui-test-manifest:1.2.0")
+    androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.2.0")
 }
