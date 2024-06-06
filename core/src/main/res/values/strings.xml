@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gym Supporter</string>
+
+    <!-- Fields -->
+    <string name="repetitions_field">Reps. %1$d</string>
+    <string name="repetitions_parameter">Reps.</string>
+    <string name="weight_field">Weight %1$s</string>
+    <string name="weight_parameter">Weight</string>
+    <string name="set_field">%1$d. Set </string>
+    <string name="exercise_field">%1$s. %2$s</string>
+    <string name="schedule_time">Schedule time</string>
+    <string name="default_workout_name">Your workout</string>
+
+    <!-- Menu -->
+    <string name="home">Home</string>
+    <string name="exercises">Exercises</string>
+    <string name="settings">Settings</string>
+
+    <!-- Buttons   -->
+    <string name="add_new_category">New category</string>
+    <string name="add_new_subcategory">New subcategory</string>
+    <string name="add_new_exercise">New exercise</string>
+    <string name="start_new_workout">New routine</string>
+    <string name="add_exercise">Add exercise +</string>
+    <string name="done">Done</string>
+
+    <!-- Button description   -->
+    <string name="dropdown_sets_list">Dropdown sets list</string>
+    <string name="edit">Edit</string>
+    <string name="finish">Finish</string>
+    <string name="save">Save</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="save_changes">Save changes</string>
+    <string name="drag_and_drop">Drag and drop</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select all</string>
+    <string name="delete_set">Delete last set</string>
+    <string name="add_set">Add set to workout</string>
+    <string name="next_month_button">Next month</string>
+    <string name="last_month_button">Last month</string>
+    <string name="apply">Apply</string>
+    <string name="close">Close</string>
+    <string name="change">Change</string>
+
+    <!-- Text fields   -->
+    <string name="new_category">New category</string>
+    <string name="new_subcategory">New Subcategory</string>
+    <string name="exercise_title">Exercise title</string>
+    <string name="description">Description</string>
+    <string name="exercise_image">Exercise Image</string>
+    <string name="dialog_reps">Reps.</string>
+    <string name="dialog_weight_kilos">kg.</string>
+    <string name="dialog_weight_pounds">lb.</string>
+    <string name="default_workout_title">Your workout</string>
+
+    <!-- Input text fields -->
+    <string name="input_field_exist">That field already exists</string>
+    <string name="input_field_empty">That field is empty</string>
+    <string name="input_field_success"> </string>
+
+    <!-- State -->
+    <string name="state_empty">No records yet</string>
+    <string name="state_error">Something went wrong. Try again.</string>
+
+    <!-- Settings -->
+    <string name="full_date_format">Full date format</string>
+    <string name="month_year_date_format">Month and Year format</string>
+    <string name="remind_workout_before">Remind before %1$d hours</string>
+    <string name="workout_remind">Workout reminder</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system_default">System Default</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <!-- Notifications   -->
+    <string name="next_workout_notification_title">Next workout soon!</string>
+    <string name="next_workout_notification">"Your next workout starts in %1$d hours"</string>
+    <string name="ex_success_added">Exercise successfully created!</string>
+
+    <!-- Screen titles   -->
+    <string name="home_screen">Home</string>
+    <string name="workout_screen_new">New Workout</string>
+    <string name="workout_screen_edit">Edit Workout</string>
+    <string name="category_screen">Category</string>
+    <string name="create_new_exercise_screen">Create exercise</string>
+    <string name="exercise_details_screen">Exercise</string>
+    <string name="settings_screen">Settings</string>
+
+    <!-- Errors -->
+    <string name="smth_went_wrong">Something went wrong. Please try again</string>
+    <string name="load_data_failure">Load data error</string>
+
+    <!-- Validations -->
+    <string name="ex_exist">that exercise already exists</string>
+    <string name="empty_field">that field is empty</string>
+</resources>

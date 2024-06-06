@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="center_vertical"
+        android:alpha="0.5"
+        android:background="@drawable/divider"
+        android:layout_marginHorizontal="8dp"
+        />
+    <TextView
+        android:id="@+id/exercise_title"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:gravity="bottom"
+        tools:text="Exercise"
+        android:layout_marginHorizontal="16dp"
+        style="@style/TextStyle.SubHead"
+        android:textStyle="bold"
+        />
+
+</FrameLayout>

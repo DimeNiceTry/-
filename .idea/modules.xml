@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoneTime.iml" filepath="$PROJECT_DIR$/.idea/modules/DoneTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DoneTime.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DoneTime.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DoneTime.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DoneTime.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DoneTime.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DoneTime.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DoneTime.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DoneTime.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DoneTime.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DoneTime.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DoneTime.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DoneTime.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DoneTime.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DoneTime.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DoneTime.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DoneTime.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DoneTime.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/DoneTime.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/DoneTime.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/DoneTime.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/DoneTime.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/DoneTime.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/DoneTime.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/DoneTime.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/DoneTime.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/DoneTime.domain.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/DoneTime.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/DoneTime.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/DoneTime.features.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/DoneTime.features.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.iml" filepath="$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/create_new_exercise/DoneTime.features.create_new_exercise.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.iml" filepath="$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/detailed_record_workout/DoneTime.features.detailed_record_workout.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_addition/DoneTime.features.exercise_addition.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_addition/DoneTime.features.exercise_addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_details/DoneTime.features.exercise_details.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_library/DoneTime.features.exercise_library.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_library/DoneTime.features.exercise_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/exercise_menu/DoneTime.features.exercise_menu.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/DoneTime.features.home.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/DoneTime.features.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/DoneTime.features.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.iml" filepath="$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/settings_screen/DoneTime.features.settings_screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/DoneTime.features.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/DoneTime.features.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout/DoneTime.features.workout.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/workout_notification/DoneTime.features.workout_notification.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/DoneTime.navigation.unitTest.iml" />
+    </modules>
+  </component>
+</project>

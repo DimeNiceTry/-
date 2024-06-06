@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:animateLayoutChanges="true">
+
+    <ToggleButton
+        android:id="@+id/edit_button"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/selector_edit_button"
+        android:textOff=""
+        android:textOn=""
+        android:backgroundTint="?attr/colorSecondary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/exercise_name"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/exercise_name"
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:text="@string/app_name"
+        style="@style/TextStyle.Body"
+        android:textStyle="bold"
+        android:layout_marginHorizontal="16dp"
+        android:paddingBottom="8dp"
+        android:gravity="bottom"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/exercise_list"
+        app:layout_constraintStart_toEndOf="@id/edit_button"
+        />
+    <LinearLayout
+        android:id="@+id/exercise_list"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/shape_button_variant"
+        app:layout_constraintTop_toBottomOf="@id/exercise_name"
+        app:layout_constraintStart_toEndOf="@id/edit_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/exercise_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/item_exercise_set"
+            tools:itemCount="5"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:orientation="vertical"
+            android:clickable="true"
+            android:focusable="true"
+            />
+        <include layout="@layout/item_add_button"
+            android:id="@+id/buttons"
+            />
+    </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
